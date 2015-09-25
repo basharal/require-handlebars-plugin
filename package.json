@@ -5,7 +5,7 @@
   "description": "A plugin for handlebars in require.js",
   "repository": {
     "type": "git",
-    "url": "https://SlexAxton@github.com/SlexAxton/require-handlebars-plugin.git"
+    "url": "https://basharal@github.com/basharal/require-handlebars-plugin.git"
   },
   "license": "MIT",
   "main": "hbs",
